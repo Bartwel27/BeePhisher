@@ -1,10 +1,12 @@
 # BeePhisher
-A web based phishing tool framework used to generate net poisoned payloads web pages used for penetration testing and system vulnerability checking and web bug🪲 hunting.
+BeePhisher is a small light web project in conclusion it's a web based phishing tool framework used to generate net poisoned payloads web pages used for penetration testing and system vulnerability checking and web bug🪲 hunting.
 
-BeePhisher is a small light web project developed by
-[bartwel27](https://github.com/bartwel27), the project focuses on solving one issue, which is web phishing and penetration testing.
-When you come to think of it phishing, penetration testing and bug bounty is mainly used in environments like terminals or any distro desk
 
+
+
+
+## Contributors
+[bartwel27](https://github.com/bartwel27)
 
 
 
