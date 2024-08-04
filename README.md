@@ -2,20 +2,18 @@
 BeePhisher is a small light web project in conclusion it's a web based phishing tool framework used to generate net poisoned payloads web pages used for penetration testing and system vulnerability checking and web bug🪲 hunting.
 
 
-## Languages 
-> php8(hypertext processor)
+## Supports
+> php8
 
-> js(JavaScript)
+> js
 
-> html(hyper text makeup language)
+> html
 
-> css(cascading style sheet)
+> css
 
-> mysql5(database management system)
+> mysql5
 
-> sql(structured query language)
-
-> bash(born again shell)
+> sql
 
 
 #### Contributors
