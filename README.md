@@ -3,12 +3,18 @@ BeePhisher is a small light web project in conclusion it's a web based phishing 
 
 
 ## Languages 
-> php(hypertext processor)
+> php8(hypertext processor)
+
 > js(JavaScript)
+
 > html(hyper text makeup language)
+
 > css(cascading style sheet)
-> mysql(database management system)
+
+> mysql5(database management system)
+
 > sql(structured query language)
+
 > bash(born again shell)
 
 
